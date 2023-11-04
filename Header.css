@@ -1,0 +1,20 @@
+.header{
+    margin:10px;
+}
+.header img{
+    width:150px;
+    height: 150px;
+    margin: 20px;
+}
+.center{
+     justify-content: center;
+     margin: 10px;
+     padding: 10px;
+}
+.graph{
+    width:600px;
+    height: 600px;
+    margin: 3rem;
+    text-align: center;
+    justify-content: center;
+}

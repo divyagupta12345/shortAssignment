@@ -1,0 +1,52 @@
+.button{
+    color:white;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-bottom: 5rem;
+    margin-left: 45rem;
+    font-size: 600;
+    font-weight: 700;
+    font-family: sans-serif;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 8rem;
+    margin-top: 3rem;
+    border-color: beige;
+    
+    cursor:pointer;
+    transition: background-color 0.3s;
+    transform: perspective(50px);
+    width: 8rem;
+    background-color: transparent;
+
+}
+button:hover{
+    background-color:orange;
+
+} 
+@media screen and (max-width: 768px){
+    .button{
+    color:rgb(215, 31, 31);
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-bottom: 5rem;
+    margin-left: 14rem;
+    font-size: 600;
+    font-weight: 700;
+    font-family: sans-serif;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 8rem;
+    margin-top: 3rem;
+    border-color: beige;
+    
+    cursor:pointer;
+    transition: background-color 0.3s;
+    transform: perspective(50px);
+    width: 8rem;
+    background-color: transparent;
+    }
+
+};
+
+                          
